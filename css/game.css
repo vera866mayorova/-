@@ -1,0 +1,47 @@
+body {
+	background-color: #EFFBF2
+}
+
+.intro-wrapper {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  color: #088A08;
+  
+}
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+}
+#win-message {
+  text-align: center;
+  color: #DF7401;
+}
+
+#button-reload {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  
+  
+  border-width: 3px;
+}
+
+
+
+
+
+
